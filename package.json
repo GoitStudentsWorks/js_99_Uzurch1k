@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-Pronto11/",
+    "build": "vite build --base=/js_99_Uzurch1k/",
     "preview": "vite preview"
   },
   "devDependencies": {
